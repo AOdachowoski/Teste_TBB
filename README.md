@@ -17,7 +17,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 <h3>Pré-requisitos</h3>
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/) na versão 14 (caso não tenha instalado recomendo o uso do [NVM](https://github.com/nvm-sh/nvm)). 
+[Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/). 
 
 ```bash
 #Após intalar o nvm
