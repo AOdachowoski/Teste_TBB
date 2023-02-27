@@ -13,7 +13,6 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 <br>
 <h2>Instalar o projeto em sua máquina</h2>
-<br>
 <h3>Pré-requisitos</h3>
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
